@@ -39,7 +39,7 @@ splitter = RecursiveCharacterTextSplitter(
 docs = splitter.create_documents([full_text])
 print(f"Step 3 - Total chunks created: {len(docs)}")
 
-## Below code is to inspect chunks created - optional
+# Below code is to inspect chunks created - optional
 
 chunk_1 = docs[2].page_content
 chunk_2 = docs[3].page_content
