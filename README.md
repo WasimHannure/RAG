@@ -13,7 +13,7 @@ This project demonstrates a simple **Retrieval-Augmented Generation (RAG)** pipe
 
 ### 1. Clone the project
 ```bash
-git clone https://github.com/sunnyaws1984/rag.git
+git clone https://github.com/WasimHannure/RAG.git
 cd rag
 
 2. Create a virtual environment (recommended)
